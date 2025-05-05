@@ -1,4 +1,4 @@
-# chatbot
+# tic-tac-toe-game
 
 
 ## Getting started
